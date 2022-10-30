@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorOnPrimary
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+drawable ic_book
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_rest
+drawable splash_icon
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style SplashTheme
+style Theme.Studdy

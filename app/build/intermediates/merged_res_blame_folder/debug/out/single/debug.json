@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/drawable-mdpi_splash_icon.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/drawable-mdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/drawable_ic_book.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.yourcompany.android.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourcompany.android.app-merged_res-47:/drawable_ic_rest.xml.flat",
+        "source": "com.yourcompany.android.app-main-49:/drawable/ic_rest.xml"
+    }
+]
