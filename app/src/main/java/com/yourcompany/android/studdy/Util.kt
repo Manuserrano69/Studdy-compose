@@ -147,6 +147,5 @@ fun Int.toHour24Format(isAm: Boolean): Int {
 }
 
 object TimeFormat {
-
   var is24HourFormat by mutableStateOf(false)
 }
